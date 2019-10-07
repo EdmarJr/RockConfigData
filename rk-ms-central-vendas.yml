@@ -1,0 +1,8 @@
+---
+config:
+  db:
+    url: localhost:5432
+	db: central-estoque
+	user: postgres
+	password: 123456
+	
